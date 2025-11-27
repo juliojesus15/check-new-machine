@@ -1,3 +1,3 @@
 # check-new-machine
 Test
-Git add from Autrisa PC
+Git add from local PC
